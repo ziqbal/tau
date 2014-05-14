@@ -1,4 +1,4 @@
-tau
+TAU
 ===
 
 Templates for TAU
